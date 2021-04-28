@@ -112,3 +112,7 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+### Peer Review Exercise
+
+4 scripts and 4 plots in png format uploaded
+
